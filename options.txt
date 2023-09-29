@@ -1,0 +1,4 @@
+{
+    "fps": 30,
+    "random_threshold": 0.7
+}
