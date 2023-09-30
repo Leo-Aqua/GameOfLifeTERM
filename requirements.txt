@@ -1,3 +1,2 @@
 windows-curses
 cx-Freeze
-json
